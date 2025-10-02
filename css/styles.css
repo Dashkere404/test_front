@@ -114,4 +114,15 @@ footer {
   .hero img {
     max-width: 95%;
   }
+}body.dark-theme {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark-theme header {
+  background: #b71c1c;
+}
+
+body.dark-theme footer {
+  background: #212121;
 }
